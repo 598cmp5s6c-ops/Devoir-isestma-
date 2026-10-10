@@ -1,0 +1,27 @@
+ETUDE DES FICHIERS PHYSIQUE ET RESEAU EXISTANT DE ISESTMA 
+
+1.	étude de l’existant physique 
+Avant de concevoir une solution d’administration d’accès à internet il est impératif de connaître l’infrastructure physique actuelle de isestma. Le campus est constitué de deux bâtiments principaux abritant des salles de cours, les laboratoires et les séries administratifs 
+A) description du bâtiment a 
+Le bâtiment a s’éleve sur plusieurs niveaux ( du rez de chaussée jusqu’au 4 ème Etage et il regroupe: 
++ les salles pédagogiques principales ( salle BA1S1 ou B2S2)
++ les bureaux de la direction et de la communication au 1er étage 
++ des espaces de service et de détente (radio campus, grande salle de fête)
+B) description du bâtiment b 
+Le bâtiment b est le pôle technique et de rassemblement des campus ainsi il abrite notamment: 
++ au rez de chaussée ( 1er niveau ) l’amphithéâtre (amphi 150) et les blocs techniques 
++ au niveau supérieur les salles de travaux pratiques clés pour notre filière à savoir la salle de tp réseau et sécurité, la salle de tp informatique ainsi que celle de tp froid et climatisation 
+2.	étude de l’existant réseau 
+L’analyse de la topographie physique des bâtiments a et b nous a permis de pouvoir illustrer un esquisse de l’architecture réseau actuelle de isestma 
+A) interconnexion des bâtiments 
++ le noeud principal (coeur réseau) 
+Généralement situé dans une zone sécurisé du bâtiment b ( proche de la salle de tp réseau et sécurité) il centralise la source d’accès internet principale 
++ les liaisons inter bâtiments 
+Les bâtiments a et b sont reliés par un lien physique ( câblage structuré et liaison sans fil) permettant de propager le signal réseau dans toutes les salles de cours et bureaux administratifs 
+B) segmentation logique et répartition des équipements 
++ la zone administrative ( bâtiment a)
+Il regroupe des postes de direction ,de 
+Comptabilité et du secrétariat nécessitant une connexion stable et des regles de sécurité spécifiques 
++ zone pédagogie et technique ( bâtiment b) 
+Il dispose de la salle de tp réseau et sécurité et la salle de tp informatique disposant d‘un point d’accès câblés ( Switch dediés) pour les etudiants en formation. 
+
